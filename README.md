@@ -20,7 +20,7 @@
 * **Framework:** Flutter (Dart)
 * **Architecture:** Modular design with separation of concerns (UI, Models, Data).
 * **Data Persistence:** Local storage for offline capability.
-* **Version Control:** Git & GitHub.
+* **Version Control:** Git & GitHub. 
 
 ## 🚀 How to Run
 Ensure you have Flutter installed, then run:
